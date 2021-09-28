@@ -161,6 +161,10 @@ img {
     grid-template-columns: 1fr;
   }
 
+  .skills-title {
+    font-size: 5rem;
+  }
+
   .learn-ilustration img {
     display: none;
   }
